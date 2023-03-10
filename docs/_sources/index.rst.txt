@@ -10,9 +10,9 @@ Welcome to shuntacurosu's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   hello
-   hierarchy
-   code
+   chordis
+   ReverseKaraoke
+   reference
 
 Indices and tables
 ==================
